@@ -17,3 +17,6 @@
 	PseInt
 
 	Python 
+## Descripcion 
+Actividad general: crear diferentes algoritmos que cumplan con las
+condiciones especificadas en los ejercicios. 
